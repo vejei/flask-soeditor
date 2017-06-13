@@ -6,7 +6,7 @@ LONG_DESCRIPTION = open('README.md').read()
 
 setup(
     name='Flask-SOEditor',
-    version='0.1.1a',
+    version='0.1.2a',
     url='https://github.com/zeleven/flask-soeditor',
     license='MIT',
     author='zeleven',
