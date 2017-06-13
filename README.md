@@ -1,1 +1,1 @@
-# flask-soeditor
+# Flask-SOEditor
