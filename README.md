@@ -43,6 +43,7 @@ First, you have to load the css and js files, and then replace your textarea:
 <html>
 <head>
 	<title>Flask-SOEditor example</title>
+	<script type="text/javascript" src="{{ url_for('static', filename='jquery-3.1.1.js') }}">
 	{{ soeditor.css }}
 	{{ soeditor.js }}
 </head>
